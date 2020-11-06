@@ -15,7 +15,7 @@ author: Yaamini R. Venkataraman
 
 navbar-links:
   About: "aboutme"
-  CV: "https://github.com/yaaminiv/test-repo/blob/master/docs/Venkataraman_CV.pdf"
+  CV: "docs/Venkataraman_CV.pdf"
   Lab Notebook: "yaaminiv.github.io/LabNotebook"
   Publications:
   Communication:
