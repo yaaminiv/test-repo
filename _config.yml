@@ -6,19 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Yaamini R. Venkataraman
 
 # Your name to show in the footer
-author: Some Person
+author: Yaamini R. Venkataraman
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About: "aboutme"
+  CV: ""
+  Lab Notebook: "yaaminiv.github.io/LabNotebook"
+  Feed: "https://genefish.wordpress.com/category/yaamini/"
+  Publications: ""
+  Communication: "
+  Outreach: ""
 
 # --- Logo --- #
 
@@ -27,7 +29,7 @@ navbar-links:
 avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
