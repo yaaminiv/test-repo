@@ -15,8 +15,11 @@ author: Yaamini R. Venkataraman
 
 navbar-links:
   About: "aboutme"
-  CV:
+    CV:
   Lab Notebook: "yaaminiv.github.io/LabNotebook"
+  Publications:
+  Communication:
+  Outreach:
   Feed: "https://genefish.wordpress.com/category/yaamini/"
 
 # --- Logo --- #
@@ -229,4 +232,4 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
