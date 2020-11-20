@@ -14,7 +14,6 @@ author: Yaamini R. Venkataraman
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "aboutme"
   CV: "/assets/cv/Venkataraman_CV.pdf"
   Lab Notebook: "notebook"
   Publications:
